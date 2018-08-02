@@ -11,5 +11,9 @@
     "development"
   ],
   "author": "Valeria Peñaloza",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
 }
