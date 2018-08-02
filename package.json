@@ -1,0 +1,15 @@
+{
+  "name": "ejemplotdd",
+  "version": "0.0.1",
+  "description": "clase de tdd y ambiente de desarrollo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "test",
+    "development"
+  ],
+  "author": "Valeria Peñaloza",
+  "license": "ISC"
+}
